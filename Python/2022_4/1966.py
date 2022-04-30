@@ -1,3 +1,4 @@
+#실버3, 프린터큐
 import sys
 cnt=int(sys.stdin.readline())
 for i in range(cnt):
