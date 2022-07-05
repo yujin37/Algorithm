@@ -1,3 +1,4 @@
+#실버4 수 찾기
 import sys
 n1=sys.stdin.readline()
 num1=sorted(map(int,sys.stdin.readline().split()))
