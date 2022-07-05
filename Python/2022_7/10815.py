@@ -1,3 +1,4 @@
+#실버5, 숫자 카드
 import sys
 n1=int(input())
 num1=sorted(map(int,sys.stdin.readline().split()))
